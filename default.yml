@@ -13,7 +13,7 @@
 
 org_settings:
   org_info:
-    org_name: SomeSam
+    org_name: SomeSam1
   webhook_settings:
     activities_webhook:
       enable_activities_webhook: true
