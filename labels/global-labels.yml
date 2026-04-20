@@ -1,4 +1,6 @@
--	name: Uptime over 30 days
+- name: Uptime over 30 days
+
+
 	platform: darwin
 	description: Hosts with an uptime greater than 30 days
 	label_membership_type: dynamic
