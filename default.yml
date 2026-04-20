@@ -27,8 +27,6 @@ org_settings:
     # Read more:
     #   • https://fleetdm.com/docs/configuration/yaml-files#org-info
     ###########################################################
-    org_name: SM Support
-
   server_settings:
     ###########################################################
     # The server URL where Fleet is running.
