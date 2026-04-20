@@ -13,9 +13,9 @@
 
 org_settings:
   org_info:
-    Org_Name: SomeSam
+    org_name: SomeSam
   webhook_settings:
-    activaties_webhook:
+    activities_webhook:
       enable_activities_webhook: true
       destination_url: https://webhook.site/7414ef3b-0449-40b9-9526-53c926fd1c48
       
